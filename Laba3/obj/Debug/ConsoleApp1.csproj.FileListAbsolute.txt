@@ -1,0 +1,8 @@
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.ResolveComReference.cache
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+S:\ИНФ-25\РП-191\Нечаев\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
